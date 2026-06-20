@@ -58,7 +58,6 @@ unquoted variable) before this version. I can't claim it's been run live
 against a 10+ agent fleet — that's the real test. If you try it and it
 breaks somewhere, I'd genuinely like to know where, and I'm glad to iterate.
 
-Submitted for the $500 bounty — June 20, 2026.
 
 ---
 
